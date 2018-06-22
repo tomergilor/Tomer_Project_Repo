@@ -1,0 +1,20 @@
+adb_ouput = 'List of devices attached\r\n056d8aa20a5ca875\tdevice\r\n4d00c68d4719809d\tdevice'
+
+list = adb_ouput.split('\r\n')
+
+for idx, item in enumerate(list):                        # Enumrate device the list with number for example: list=tomer,david, haim
+                                                         # After numerate it will be: 1. tomer 2.david 3.haim
+    if(idx != 0):
+        splitted = item.split('\t')
+        print idx, splitted[0]
+
+print "Enter Choice:"
+userChoice=raw_input()
+
+for idx, item in enumerate(list):
+    if(idx == int(userChoice)):
+
+        print str(idx) + '-' +item
+
+
+

@@ -1,0 +1,9 @@
+list = [5, 2, 3, 1, 4, 9, 6, 7, 10, 8]
+j = 1
+min = -10000
+
+for i in range(0, len(list)):
+    if list[i] < min:
+        min = list[i]
+
+    print min

@@ -1,0 +1,21 @@
+Text to copy
+Python
+test10
+Text to copy
+Python
+test10
+
+Adding line 1
+Adding line 2
+123Python is an easy to learn, powerful programming language.
+It has efficient high-level data structures and a simple but effective approach to object-oriented programming.
+Python’s elegant syntax and dynamic typing, together with its interpreted nature, 
+make it an ideal language for scripting and rapid application development in many areas on most platforms.
+test line copy
+If you specify the buffering value as an integer greater than 1, 
+then buffering action is performed with the indicated buffer size. If negative, 
+the buffer size is the system default(default behavior).If you specify the buffering value as an integer greater than 1, 
+then buffering action is performed with the indicated buffer size. If negative, 
+the buffer size is the system default(default behavior).If you specify the buffering value as an integer greater than 1, 
+then buffering action is performed with the indicated buffer size. If negative, 
+the buffer size is the system default(default behavior).
