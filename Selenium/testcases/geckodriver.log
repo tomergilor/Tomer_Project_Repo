@@ -1,0 +1,26 @@
+1511451476915	geckodriver	INFO	geckodriver 0.19.1
+1511451476922	geckodriver	INFO	Listening on 127.0.0.1:50987
+1511451478972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TomerG\\AppData\\Local\\Temp\\rust_mozprofile.oU8KbAQDfaLV"
+1511451479411	Marionette	INFO	Enabled via --marionette
+1511451480799	Marionette	INFO	Listening on port 50997
+1511451480994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511451481071	Marionette	DEBUG	Register listener.js for window 4294967297
+1511451481095	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511451481550	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511451483090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://shop.thetestingworld.com/"
+1511451484246	Marionette	DEBUG	Received DOM event "pageshow" for "http://shop.thetestingworld.com/"
+1511451488363	Marionette	DEBUG	Received DOM event "beforeunload" for "http://shop.thetestingworld.com/"
+1511451489058	Marionette	DEBUG	Received DOM event "pagehide" for "http://shop.thetestingworld.com/"
+1511451489061	Marionette	DEBUG	Received DOM event "unload" for "http://shop.thetestingworld.com/"
+1511451489797	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://shop.thetestingworld.com/index.php?route=product/search&search=iphone"
+1511451489979	Marionette	DEBUG	Received DOM event "pageshow" for "http://shop.thetestingworld.com/index.php?route=product/search&search=iphone"
+1511451492205	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511451494257	Marionette	DEBUG	Received DOM event "beforeunload" for "http://shop.thetestingworld.com/index.php?route=product/search&search=iphone"
+1511451494532	Marionette	DEBUG	Received DOM event "pagehide" for "http://shop.thetestingworld.com/index.php?route=product/search&search=iphone"
+1511451494535	Marionette	DEBUG	Received DOM event "unload" for "http://shop.thetestingworld.com/index.php?route=product/search&search=iphone"
+1511451496938	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://shop.thetestingworld.com/index.php?route=checkout/checkout"
+1511451496963	Marionette	DEBUG	Received DOM event "pageshow" for "http://shop.thetestingworld.com/index.php?route=checkout/checkout"
+1511451499213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511451499454	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511451503755	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
